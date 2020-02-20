@@ -5,7 +5,7 @@ public class Escoteiro {
     public int id;
     public String nome;
     public int idade;
-    public char grupo;
+    protected char grupo;
 
     //2. Definir os métodos (comportamento)
     public void registrarAcampamento(){

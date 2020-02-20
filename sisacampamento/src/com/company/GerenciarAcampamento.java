@@ -24,5 +24,6 @@ public class GerenciarAcampamento {
         //Listar os dados da Maria
         escoteiro2.listar();
 
+
     }
 }
